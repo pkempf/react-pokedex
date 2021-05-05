@@ -1,0 +1,15 @@
+.Pokedex {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Pokedex-header {
+  color: #aaaaaa;
+  font-size: 1.5rem;
+}
+
+.Pokedex-body {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  justify-content: center;
+  align-content: center;
+}
